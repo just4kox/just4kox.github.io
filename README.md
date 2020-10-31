@@ -1,2 +1,2 @@
 # A Vision & A Task
-just4kox's blog
+Repository for just4kox's blog
