@@ -1,0 +1,34 @@
+I"^<div>
+
+  <div class="archive-group">
+    
+    <div id="#Sample"></div>
+    <p></p>
+    <h3 class="category-head">Sample</h3>
+    <a name="Sample"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/super-long-article/">Some articles are just so long they deserve a really long title to see if things will break well</a></h4>
+    </article>
+    
+  </div>
+
+  <div class="archive-group">
+    
+    <div id="#Guides"></div>
+    <p></p>
+    <h3 class="category-head">Guides</h3>
+    <a name="Guides"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/markdown-cheatsheet/">Markdown Cheatsheet</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/super-long-article/">Some articles are just so long they deserve a really long title to see if things will break well</a></h4>
+    </article>
+    
+  </div>
+
+</div>
+:ET
